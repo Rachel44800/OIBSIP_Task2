@@ -5,15 +5,7 @@ Welcome to the Beginner's BMI Calculator project! This simple Python command-lin
 
 # How to Use
 
-1. Clone the Repository:
-
-    bash
-    
-    cd bmi-calculator
-
-2. Run the BMI Calculator:
-
-    bash
+Run the BMI Calculator:
     python bmi_calculator.py
     
     Follow the prompts to enter your height and weight.
