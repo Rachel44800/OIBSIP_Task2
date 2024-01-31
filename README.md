@@ -6,6 +6,7 @@ Welcome to the Beginner's BMI Calculator project! This simple Python command-lin
 # How to Use
 
 Run the BMI Calculator:
+
     python bmi_calculator.py
     
     Follow the prompts to enter your height and weight.
